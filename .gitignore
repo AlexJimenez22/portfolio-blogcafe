@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Composer dependencies
+vendor/
+
+# PHP cache
+*.cache
+*.php~
+
+# SASS cache
+.sass-cache/
+
+# npm debug files
+npm-debug.log*
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
+*.bak
+*.tmp
